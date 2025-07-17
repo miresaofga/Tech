@@ -1,0 +1,60 @@
+
+
+
+
+html{
+    background-color:rgb(241, 246, 246);
+    background-origin: padding-box;
+    border: 100px 1000px 400px 200px;
+    text-overflow: unset;
+    
+  }
+
+  
+.Ministry{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  justify-content: center;
+  gap: 2rem;
+}
+.what {
+flex: 1;
+min-width: 90px;
+padding: 105px;
+background-color: rgb(245, 246, 248);
+}
+p{
+ text-align:left;
+    font-size: large;
+    color:black; 
+}
+h2{
+    text-align: left;
+    font-family:'Times New Roman', Times, serif
+   
+}
+
+
+
+.container{
+    display: flex;
+    display: inline-block
+    gap:50px;
+    flex-direction:row;
+    border-top:px;
+    width: 1500px;
+    height: 200px;
+    padding: 500px px 10px 2px;
+   background-color: white;
+   object-fit: contain;
+  margin:top 1rem;
+  padding: 10px;
+}
+.container >div{
+    padding:  20px;
+   background-color:rgb(253, 255, 255);
+   border-radius: 5px;
+   text-align: center;
+}
+
